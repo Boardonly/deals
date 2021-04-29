@@ -1,0 +1,2466 @@
+{
+  "data": [
+    {
+      "_id": "6075458d7bf07800148c50fb",
+      "bookedAdmin": true,
+      "winchPaid": true,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "12:15",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757b5fceb49200137e97dc",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": true,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "12:30",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757beeceb49200137e97df",
+      "bookedAdmin": true,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "11:15",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757bf0ceb49200137e97e0",
+      "bookedAdmin": false,
+      "winchPaid": true,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "11:30",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757c4fceb49200137e97e1",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "13:15",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757c50ceb49200137e97e2",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "13:30",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757c8eceb49200137e97e3",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "13:45",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757c90ceb49200137e97e4",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "14:00",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757ce4ceb49200137e97e5",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "14:15",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757ce5ceb49200137e97e6",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "14:30",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757d1cceb49200137e97e7",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "14:45",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757d1dceb49200137e97e8",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "15:00",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757dbaceb49200137e97e9",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "15:15",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757dbcceb49200137e97ea",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "15:30",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757dffceb49200137e97eb",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "15:45",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757e01ceb49200137e97ec",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "16:00",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757e3cceb49200137e97ed",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "16:15",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757e3eceb49200137e97ee",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "16:30",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757e56ceb49200137e97ef",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-22",
+      "time": "16:15",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757e58ceb49200137e97f0",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-22",
+      "time": "16:30",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757ed8ceb49200137e97f1",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-22",
+      "time": "15:45",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757edaceb49200137e97f2",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-22",
+      "time": "16:00",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757fe8ceb49200137e97f3",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-22",
+      "time": "15:15",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60757feaceb49200137e97f4",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-22",
+      "time": "15:30",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60758065ceb49200137e97f5",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-22",
+      "time": "15:00",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60758066ceb49200137e97f6",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-22",
+      "time": "14:45",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "607580a7ceb49200137e97f7",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-22",
+      "time": "14:30",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "607580a8ceb49200137e97f8",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-22",
+      "time": "14:15",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60758102ceb49200137e97f9",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-22",
+      "time": "14:00",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60758104ceb49200137e97fa",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-22",
+      "time": "13:45",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60758234ceb49200137e97fb",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-22",
+      "time": "13:15",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "60758235ceb49200137e97fc",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-22",
+      "time": "13:30",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "607729f2ff5fda00132c9906",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "18:00",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "60583e4e8c40590014239150",
+        "name": "Сергей",
+        "phone": 380999494957
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "equipment": [],
+      "description": "asdf"
+    },
+    {
+      "_id": "607729f7ff5fda00132c9907",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "18:15",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "60583e4e8c40590014239150",
+        "name": "Сергей",
+        "phone": 380999494957
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "equipment": [],
+      "description": "asdf"
+    },
+    {
+      "_id": "607729feff5fda00132c9908",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "17:30",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "60583e4e8c40590014239150",
+        "name": "Сергей",
+        "phone": 380999494957
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "equipment": [],
+      "description": "asdf"
+    },
+    {
+      "_id": "60772a14ff5fda00132c9909",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "12:45",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "60583e4e8c40590014239150",
+        "name": "Сергей",
+        "phone": 380999494957
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "equipment": [],
+      "description": "asdf"
+    },
+    {
+      "_id": "60772a21ff5fda00132c990a",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "21:00",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "60583e4e8c40590014239150",
+        "name": "Сергей",
+        "phone": 380999494957
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "equipment": [],
+      "description": "asdf"
+    },
+    {
+      "_id": "60797375bb9a6c0014e3e250",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-16",
+      "time": "10:45",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058457474734f0014883e0d",
+            "description": "Доска SlingShot Pill-2021 (ярко-оранжевая)",
+            "price": 300,
+            "name": "SlingShot Pill"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "607d4f1f62471900136b9cc2",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-19",
+      "time": "10:00",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": []
+    },
+    {
+      "_id": "607d504d62471900136b9cc3",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-19",
+      "time": "13:00",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": []
+    },
+    {
+      "_id": "607d60440836630014285465",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-19",
+      "time": "10:30",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": []
+    },
+    {
+      "_id": "607d644c0836630014285469",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-26",
+      "time": "12:00",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "607d644e083663001428546a",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-26",
+      "time": "12:15",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "605844b174734f0014883e0b",
+            "description": "Доска SlingShot Solo-2021 (бирюзово желтая)",
+            "price": 300,
+            "name": "SlingShot Solo"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "607f047867b7f30013f3b40a",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-20",
+      "time": "10:30",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "607de9361838c90013920ca2",
+        "name": "Саша",
+        "phone": 380503338299
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058427c8c40590014239151",
+            "description": "Сапы Gladiator(желтые)",
+            "price": 200,
+            "name": "Сап"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058453e74734f0014883e0c",
+            "description": "Доска SlingShot Coalition-2021 (черно-белая)",
+            "price": 300,
+            "name": "SlingShot Coalition"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "607f081667b7f30013f3b40b",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-20",
+      "time": "10:45",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "607de9361838c90013920ca2",
+        "name": "Саша",
+        "phone": 380503338299
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058427c8c40590014239151",
+            "description": "Сапы Gladiator(желтые)",
+            "price": 200,
+            "name": "Сап"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "607f086967b7f30013f3b40c",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-20",
+      "time": "11:15",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "607de9361838c90013920ca2",
+        "name": "Саша",
+        "phone": 380503338299
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058457474734f0014883e0d",
+            "description": "Доска SlingShot Pill-2021 (ярко-оранжевая)",
+            "price": 300,
+            "name": "SlingShot Pill"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "607fbadc0016090014b2ffee",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "13:00",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "607de9361838c90013920ca2",
+        "name": "Саша",
+        "phone": 380503338299
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058427c8c40590014239151",
+            "description": "Сапы Gladiator(желтые)",
+            "price": 200,
+            "name": "Сап"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "607fc115f5179c001358dbab",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-21",
+      "time": "12:00",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "607de9361838c90013920ca2",
+        "name": "Саша",
+        "phone": 380503338299
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "6086d9678d83f5001397d56e",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-26",
+      "time": "12:30",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "equipment": []
+    },
+    {
+      "_id": "608705842d08fd0014c8fde5",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-28",
+      "time": "15:15",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058453e74734f0014883e0c",
+            "description": "Доска SlingShot Coalition-2021 (черно-белая)",
+            "price": 300,
+            "name": "SlingShot Coalition"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "608705872d08fd0014c8fde6",
+      "bookedAdmin": false,
+      "winchPaid": false,
+      "teacherPaid": false,
+      "state": "queue",
+      "date": "2021-04-28",
+      "time": "15:00",
+      "park": {
+        "_id": "60579d1f2a6fc6001402fbc7",
+        "description": "Парк на пике, в зоне 51",
+        "name": "На пике!",
+        "title": "Зона 51"
+      },
+      "client": {
+        "_id": "605ddcfaf553e9001393a188",
+        "phone": 380972321575,
+        "name": "Vova"
+      },
+      "winch": {
+        "_id": "6057a08c2a6fc6001402fbcb",
+        "description": "Кольцо на 5-ть опор",
+        "name": "Продвинутый"
+      },
+      "teacher": {
+        "_id": "6058476e74734f0014883e10",
+        "description": "String",
+        "client": {
+          "_id": "60583e4e8c40590014239150",
+          "name": "Сергей",
+          "phone": 380999494957
+        }
+      },
+      "equipment": [
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058453e74734f0014883e0c",
+            "description": "Доска SlingShot Coalition-2021 (черно-белая)",
+            "price": 300,
+            "name": "SlingShot Coalition"
+          }
+        },
+        {
+          "paid": false,
+          "equipment": {
+            "_id": "6058461174734f0014883e0e",
+            "description": "Доска HUMANOID Oracle-2021 (темная)",
+            "price": 290,
+            "name": "HUMANOID Oracle"
+          }
+        }
+      ]
+    }
+  ]
+}
