@@ -26,20 +26,6 @@ import init from './init.json'
 function createData(clientName, clientPhone, date, time, winchName = '', winchPaid = '', teacherName = '', teacherPaid = '', bookedAdmin = '', clientId) {
 	return { clientName, clientPhone, date, time, winchName, winchPaid, teacherName, teacherPaid, bookedAdmin, clientId }
 }
-function createData(clientName, clientPhone, date, time, winchName,winchPaid, teacherName) {
-	return {
-		clientName=row.client.name,
-		clientPhone=row.client.phone,
-		date=row.date,
-		time=row.time,
-		winchName=row.winch.name,
-		winchPaid=row.winchPaid,
-		teacherName=row.teacher.client.name,
-		teacherPaid=row.teacherPaid,
-		bookedAdmin=row.bookedAdmin,
-		clientId=row.client["_id"]
-	};
-}
 
 const rows = [init.map((row) => createData(row))];
 
